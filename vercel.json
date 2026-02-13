@@ -1,11 +1,3 @@
 {
-  "version": 2,
-  "functions": {
-    "api/*.js": {
-      "maxDuration": 10
-    }
-  },
-  "env": {
-    "ALLSPORTS_API_KEY": "@allsports-api-key"
-  }
+  "version": 2
 }
